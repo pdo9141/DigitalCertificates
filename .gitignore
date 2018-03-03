@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CertTester/CertTester/bin/Debug/netcoreapp2.0
+/CertTester/CertTester/obj
+/CertTester/.vs/CertTester/v15
