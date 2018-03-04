@@ -6,10 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="files\AfterSigned.xml" />
     <None Remove="files\modotech-test-cert.pfx" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="files\AfterSigned.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="files\modotech-test-cert.pfx">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
