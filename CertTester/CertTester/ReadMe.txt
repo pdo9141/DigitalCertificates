@@ -19,3 +19,10 @@ X.509 Digital Signature Signing (In C#)
 
 https://www.youtube.com/watch?v=suyKrSRrLwM&t=17s
 X.509 Digital Signature Validating (In C#)
+
+
+Post SAML
+https://www.codeproject.com/Articles/56640/Performing-a-SAML-Post-with-C
+
+Validate SAML
+https://github.com/jitbit/AspNetSaml
